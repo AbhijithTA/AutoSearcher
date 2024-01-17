@@ -2,7 +2,7 @@
 
 AutoSearcher is a web application that allows users to search for nearby auto-rickshaws and view relevant details. Auto drivers can register their data in the database, and users can search for autos in a specific area.
 
-![AutoSearcher Demo](/path/to/demo/image.png)
+![AutoSearcher Demo](/Auto Searcher.png)
 
 ## Features
 
